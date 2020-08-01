@@ -1,0 +1,37 @@
+{
+  "full_name": "Nusrat Fateh Ali Khan",
+  "other_names": ["Shahenshah-e-Qawwali"],
+  "age": 48,
+  "birth": {
+    "date": "1948-10-13",
+    "place": "Gujranwala, Punjab, Pakistan"
+  },
+  "death": {
+    "date": "1997-08-16",
+    "place": "London, UK, England"
+  },
+  "genres": [
+    "Classical",
+    "Folk",
+    "Ghazal",
+    "Punjabi",
+    "Qawwali",
+    "Sufi",
+    "World"
+  ],
+  "instruments": ["Harmonium", "Tabla", "Vocals"],
+  "labels": ["EMI", "OSA", "Real World", "Virgin Records"],
+  "associated_acts": [
+    "A. R. Rehman",
+    "Asha Bhosle",
+    "Bally Sagoo",
+    "Eddie Vedder",
+    "Javed Akhtar",
+    "Lata Mangeshkar",
+    "Michael Brook",
+    "Noor Jehan",
+    "Peter Gabriel",
+    "Rahat Fateh Ali Khan",
+    "Rizwan-Muazzam"
+  ]
+}
