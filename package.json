@@ -1,13 +1,18 @@
 {
   "name": "nfak-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "An API dedicated to Nusrat Fateh Ali Khan (NFAK)",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "API",
+    "NFAK",
+    "Nusrat",
+    "Nusrat Fateh Ali Khan"
+  ],
+  "author": "Arslan Ahmad",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
