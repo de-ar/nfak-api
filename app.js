@@ -8,7 +8,7 @@ const app = express();
 app.use(morgan('tiny'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use('/intro', require('./routes/intro'));
+app.use(require('./routes/index'));
 
 // Start server
 app.listen(process.env.SERVER_PORT || 3000);
